@@ -3,15 +3,15 @@
 ## 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eze1376&theme=highcontrast"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=erfan-zekri&theme=highcontrast"/>
 </div>
 
 
   💻 GitHub Profile Stats
   <div align="center">
     <br/>
-        <a href="https://github.com/eze1376/github-readme-stats"><img alt="eze1376's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eze1376&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
-    <a href="https://github.com/eze1376/github-readme-stats"><img alt="eze1376's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eze1376&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+        <a href="https://github.com/erfan-zekri/github-readme-stats"><img alt="erfan-zekri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=erfan-zekri&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/erfan-zekri/github-readme-stats"><img alt="erfan-zekri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-zekri&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
@@ -30,7 +30,7 @@
   <a href="https://wa.me/989905134639" target="_blank"><img alt="Whatsapp" title="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.goodreads.com/user/show/141261284-erfan-zekri" target="_blank"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Goodreads-E9E5CD?style=for-the-badge&logo=goodreads&logoColor=75420E"/></a>
   <a href="https://discordapp.com/users/696760576038273034/" target="_blank"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="https://www.t.me/eze1376/" target="_blank"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://www.t.me/erfan-zekri/" target="_blank"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://join.skype.com/invite/odbAZkku2oeD" target="_blank"><img alt="Skype" title="Skype" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white"/></a>
   <a href="https://www.reddit.com/u/ErfanZekri/s/87Qi9pW45u" target="_blank"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-ff4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
   <a href="https://www.reddit.com/u/ErfanZekri/s/87Qi9pW45u" target="_blank"><img alt="Slack" title="Slack" src="https://img.shields.io/badge/-Slack-ffffff?style=for-the-badge&logo=slack&logoColor=black"/></a>
@@ -49,7 +49,7 @@
 
 
 <!--
-**eze1376/eze1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**erfan-zekri/erfan-zekri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
